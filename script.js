@@ -15,7 +15,7 @@ let track = document.createElement("audio");
 let songs = [
   {
     name: "Kadalalle",
-    path: "ID3",
+    path: "https://github.com/Mahi-5la/project2-Music-player/blob/main/Kadalalle.mp3",
     image: "dimg1.jfif",
     singer: "Karthick",
   },
